@@ -5,8 +5,10 @@
 
 }
 
-.body{
-    background-color: blue;
+body{
+    background-image: url(Area-0.jpg);
+    justify-content: center;
+    margin: 70px;
     
     
 }
@@ -85,21 +87,21 @@
 }
 
 .Area-1 {
-    background-image: url(Image/Area-1.jpg);
+    background-image:url(Area-1.jpg) ;
     width:250px ; 
     height: 210px;
     background-size: cover;
 }
 
 .Area-2 {
-    background-image: url(Image/Area-2.webp); 
+    background-image: url(Area-2.webp); 
     background-size: cover;
     width:250px ; 
     height: 210px;
 }
 
 .Area-3 {
-    background-image: url(Image/Area-3.jpg); 
+    background-image:url(Area-3.jpg) ; 
     background-size: cover;
     width:250px ; 
     height: 210px;
